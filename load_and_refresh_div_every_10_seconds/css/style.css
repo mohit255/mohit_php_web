@@ -1,0 +1,24 @@
+/**************************************************************
+* This script is brought to you by Vasplus Programming Blog
+* Website: www.vasplus.info
+* Email: info@vasplus.info
+****************************************************************/
+
+
+.vasplus_programming_blog_wrapper 
+{
+	width:600px;
+	min-height:50px;
+	height:auto;
+	padding:10px; 
+	border: solid 1px #cbcbcb;
+	 background-color: #FFF;
+	 box-shadow: 0 2px 20px #cbcbcb;
+	-moz-box-shadow: 0 2px 20px #cbcbcb;
+	-webkit-box-shadow: 0 2px 20px #cbcbcb;
+	-webkit-border-radius: 15px 15px; 15px 15px;-moz-border-radius: 15px 15px; 15px 15px;border-radius: 15px 15px; 15px 15px;
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+	padding:30px;
+}

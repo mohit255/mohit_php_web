@@ -1,0 +1,13 @@
+Important: Please create a database first with name register then create a table with name time_table using the following queries, or you can simply import the attached table file after database creation.
+
+Table Query:
+
+CREATE TABLE IF NOT EXISTS `time_table` (
+ `id` int(11) NOT NULL AUTO_INCREMENT,
+ `trn_date` datetime NOT NULL,
+ PRIMARY KEY (`id`)
+ );
+
+Database Query:
+
+CREATE DATABASE register;
